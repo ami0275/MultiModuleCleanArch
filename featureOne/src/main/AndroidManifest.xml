@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amit.featureone">
+
+    <application>
+        <activity
+            android:name=".presentation.FeatureOneActivity"
+            android:exported="false"
+            android:screenOrientation="sensorPortrait" />
+    </application>
+
+</manifest>
